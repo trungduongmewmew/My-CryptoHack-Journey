@@ -38,7 +38,7 @@ This table tracks my personal progress. I will update it regularly as I complete
 
 | Module | Theory | Challenges | Notes |
 | :--- | :---: | :---: | :--- |
-| **01. Introduction** | ✅ | ⏳ | Mastering basic encoding schemes. |
+| **01. Introduction** | ⏳ | ⏳ | Mastering basic encoding schemes. |
 | **02. Modular Arithmetic** | ❌ | ❌ | The mathematical foundation for modern crypto. |
 | **03. Symmetric Ciphers** | ❌ | ❌ | Learning about AES, Block Cipher Modes. |
 | **04. Public-Key Crypto** | ❌ | ❌ | Focusing on RSA and its common attacks. |
