@@ -44,8 +44,8 @@ print(flag)
 
 #### 🎯 Flag from the Challenge
 
-    Running the script above produces the flag:  
-    ```crypto{ASCII_pr1nt4bl3}```
+      
+    crypto{ASCII_pr1nt4bl3}
 
 
 ---
