@@ -1,6 +1,6 @@
 # Challenge: Great Snakes
 
-- **Category**: Introduction / General
+- **Category**: Introduction
 - **Points**: 3
 
 ## 📖 Problem Description
