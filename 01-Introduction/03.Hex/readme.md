@@ -15,3 +15,6 @@ Included below is a flag encoded as a hex string. Decode this back into bytes to
 *Hint: In Python, the `bytes.fromhex()` function can be used to convert hex to bytes. The `.hex()` instance method can be called on byte strings to get the hex representation.  
 
 ## 🤔 Thought Process  
+
+The problem give us flag encoded as a hex string and asks us to decode it back into bytes to get the flag.  
+The logic is as follows:  
