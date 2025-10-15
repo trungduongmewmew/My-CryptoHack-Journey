@@ -15,7 +15,7 @@ The goal of this repository is not just to store solution scripts, but to serve 
 
 This repository is systematically organized to mirror the learning modules on CryptoHack, making it easy to follow and reference.
 
-/My-CryptoHack-Journey
+(```)/My-CryptoHack-Journey
 ├── README.md
 ├── 01-Introduction/
 ├── 02-Modular_Arithmetic/
@@ -23,7 +23,7 @@ This repository is systematically organized to mirror the learning modules on Cr
 ├── 04-Public-Key_Cryptography/
 ├── 05-Elliptic_Curves/
 ├── 06-Miscellaneous/
-└── Toolbox/
+└── Toolbox/(```)
 
 
 * **`01` to `05`**: These main directories correspond to the learning sections on CryptoHack. Each contains theoretical notes (`README.md` inside) and challenge write-ups.
