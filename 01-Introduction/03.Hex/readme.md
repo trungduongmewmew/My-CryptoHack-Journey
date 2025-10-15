@@ -1,4 +1,4 @@
-# Challenge: ASCII
+# Challenge: Hex
 
 - **Category**: Introduction / Encoding
 - **Points**: 5  
