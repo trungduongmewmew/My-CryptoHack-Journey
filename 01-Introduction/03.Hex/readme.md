@@ -16,5 +16,12 @@ Included below is a flag encoded as a hex string. Decode this back into bytes to
 
 ## 🤔 Thought Process  
 
-The problem give us flag encoded as a hex string and asks us to decode it back into bytes to get the flag.  
+The challenge give us flag encoded as a hex string and asks us to decode it back into bytes to get the flag.  
 The logic is as follows:  
+1.  Take the hex string provided by the challenge.  
+2.  The hint helpfully points to the `bytes.fromhex()` function in Python, which is designed for exactly this purpose.  
+3.  Convert the hex string into bytes using `bytes.fromhex()`. And then, get the flag.  
+
+## 🐍 Solution 
+ 
+
