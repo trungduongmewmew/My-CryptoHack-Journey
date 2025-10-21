@@ -56,4 +56,4 @@ Besides CryptoHack, here are a few other resources I find helpful in my learning
 * [Asecuritysite](https://asecuritysite.com/): A website with a vast collection of cryptographic examples and knowledge.
 
 ---
-*This repository was last updated on October 15, 2025.*
+*This repository was last updated on October 21, 2025.*
