@@ -29,7 +29,7 @@ The logic is as follows:
 
 ## 🐍 Solution  
 
-We can write a very simple Python script to solve this.  Using `ord()` convert to ascii and `chr()` convert to string.
+We can write a very simple Python script to solve this.  Using `ord()` convert to ascii, xor with `13` and `chr()` convert to string.
 
 ### Python Script
 
