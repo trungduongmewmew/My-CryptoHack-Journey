@@ -13,7 +13,7 @@ I've encrypted the flag with my secret key, you'll never be able to guess it.
 
 Here is the step-by-step logic to solve the problem:
 
-1.  Analyze the Problem The challenge provides only a hex string (the ciphertext). We are told this is the result of Plaintext ^ Key, but the key is unknown.
+1.  Analyze the Problem The challenge provides only a hex string (the ciphertext). We are told this is the result of Plaintext ⊕ Key, but the key is unknown.
 
 2.  Identify the Hint We have a crucial hint: the flag format is crypto{FLAG}.
 
@@ -21,7 +21,7 @@ Here is the step-by-step logic to solve the problem:
 
 - Because we know the format, we know the first 7 bytes of the plaintext (the string "crypto{").
 
-- Based on the properties of XOR (where Ciphertext ^ Plaintext = Key), we can XOR the first 7 bytes of the ciphertext with the 7 known bytes of the plaintext.
+- Based on the properties of XOR (where Ciphertext ⊕ Plaintext = Key), we can XOR the first 7 bytes of the ciphertext with the 7 known bytes of the plaintext.
 
 - This will reveal the first 7 bytes of the key.
 
@@ -58,7 +58,8 @@ full_plain_text = full_plain_text_bytes.decode()
 print(full_plain_text))  
 ```  
 #### 🎯 Flag from the Challenge  
-     ``crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}``  
+
+     crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}  
      
 ---
 
