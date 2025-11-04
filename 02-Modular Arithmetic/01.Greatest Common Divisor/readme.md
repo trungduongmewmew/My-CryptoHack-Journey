@@ -18,7 +18,7 @@ and the divisors of \( b \):
 
 Comparing these two, we see that:  
 \[
-\text{gcd}(a, b) = 4
+\gcd(a, b) = 4
 \]
 
 ---
@@ -27,7 +27,7 @@ Now imagine we take \( a = 11, b = 17 \).
 Both \( a \) and \( b \) are prime numbers.  
 As a prime number has only itself and 1 as divisors,  
 \[
-\text{gcd}(a, b) = 1
+gcd(a, b) = 1
 \]
 
 We say that for any two integers \( a, b \),  
@@ -49,7 +49,7 @@ Use \( a = 12, b = 8 \) to test it.
 
 Now calculate  
 \[
-\text{gcd}(a, b)
+\gcd(a, b)
 \]
 for \( a = 66528, b = 52920 \)  
 and enter it below.
