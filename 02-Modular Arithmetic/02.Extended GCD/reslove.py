@@ -1,5 +1,6 @@
-import math
-a= 26513
-b= 32321
-gcd = math.gcd(a, b)
-print(f"The GCD of {a} and {b} is {gcd}")
+from math import gcd
+p = 26513
+q = 32321
+u = pow(p, -1, q)
+v =(1 - p * u) // q
+print(f"u: {u}, v: {v}")
