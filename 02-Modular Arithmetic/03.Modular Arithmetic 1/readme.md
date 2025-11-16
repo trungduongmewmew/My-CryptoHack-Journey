@@ -17,8 +17,9 @@ You may not have been calling it modular arithmetic, but you've been doing these
 Formally, "calculating time" is described by the theory of congruences. We say that two integers are congruent modulo m if a $\equiv$ b (mod m).  
 Another way of saying this, is that when we divide the integer a by m, the remainder is b. This tells you that if m divides a(this can be written as m|a) then a $\equiv$ 0 (mod m)  
 Calculate the following integers:   
- 11 $\equiv$ x (mod 6) 
-8146798528947 $\equiv$ y (mod 17)  
+ 11 $\equiv$ x (mod 6)  
+
+ 8146798528947 $\equiv$ y (mod 17)  
         
 The solution is the smaller of the two integers, (x,y), you obtained after reducing by the modulus.  
 ## 🤔 Thought Process  
